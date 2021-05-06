@@ -1,8 +1,8 @@
 # question1
 a = {6,7,8,9,10}
 b = {5,6,7,8,9}
-a.add('4')
-b.add('3')
+a.add(4)
+b.add(3)
 a.union(b)
 a.difference(b)
 b.difference(a)
